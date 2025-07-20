@@ -67,7 +67,7 @@ pip install -r requirements.txt
 ### 5. Run jupyter kernel and notebook
 ipython kernel install --user --name=venv
 jupyter notebook
-
+```
 ✅ How to Use
 🔁 Important: Run the notebook cell by cell (from top to bottom) to ensure correct execution and proper variable state.
 
