@@ -84,7 +84,7 @@ jupyter notebook
 
 - Check outputs as you go.
 
--- If Jupyter shows the wrong kernel, go to Kernel > Change Kernel and select the environment with Python 3.10.
+#### If Jupyter shows the wrong kernel, go to Kernel > Change Kernel and select the environment with Python 3.10.
 
 ## 📬 Contact
 
