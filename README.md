@@ -74,17 +74,17 @@ jupyter notebook
 ```
 ## ✅ How to Use
 
-Run the notebook cell by cell (from top to bottom) to ensure correct execution and proper variable state.
+- Run the notebook cell by cell (from top to bottom) to ensure correct execution and proper variable state.
 
-Open the notebook in Jupyter.
+- Open the notebook in Jupyter.
 
-Start from the first cell.
+- Start from the first cell.
 
-Run each cell in order using Shift + Enter.
+- Run each cell in order using Shift + Enter.
 
-Check outputs as you go.
+- Check outputs as you go.
 
-If Jupyter shows the wrong kernel, go to Kernel > Change Kernel and select the environment with Python 3.10.
+#### If Jupyter shows the wrong kernel, go to Kernel > Change Kernel and select the environment with Python 3.10.
 
 ## 📬 Contact
 
