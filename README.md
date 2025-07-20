@@ -52,25 +52,29 @@ To run the notebook on your local machine, follow these steps.
 ```bash
 git clone https://github.com/martynakurbiel52/DS.git
 cd DS
-
+```
 ### 2. Create a Virtual Environment (Optional but Recommended)
+```bash
 python3.10 -m venv venv
 source venv/bin/activate      
 venv\Scripts\activate
-
+```
 ### 3. Upgrade pip (if needed)
+```bash
 python -m pip install --upgrade pip==23.2.1
-
+```
 ### 4. Install Required Packages
+```bash
 pip install -r requirements.txt
-
+```
 ### 5. Run jupyter kernel and notebook
+```bash
 ipython kernel install --user --name=venv
 jupyter notebook
 ```
 ✅ How to Use
-🔁 Important: Run the notebook cell by cell (from top to bottom) to ensure correct execution and proper variable state.
 
+Run the notebook cell by cell (from top to bottom) to ensure correct execution and proper variable state.
 Open the notebook in Jupyter.
 Start from the first cell.
 Run each cell in order using Shift + Enter.
@@ -79,4 +83,5 @@ Check outputs as you go.
 If Jupyter shows the wrong kernel, go to Kernel > Change Kernel and select the environment with Python 3.10.
 
 📬 Contact
+
 For any questions, please open an issue or contact me via email martynakurbiel52@gmail.com
