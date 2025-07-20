@@ -2,27 +2,27 @@
 
 This repository contains a Jupyter Notebook designed to data scientist working for a marketing agency. Client, an electric vehicle (EV) manufacturer, is launching a new car. They have a dataset of 10,000 potential customers, attached. Each potential customer is described by the following categories of features showing their potential customers’ beliefs about EVs, related psychographics and demographics:
 
-Range – 1: have this belief about EVs; 0: do not have this belief
+**Range** – 1: have this belief about EVs; 0: do not have this belief
 
-Charging – 1: have this belief about EVs; 0: do not have this belief
+**Charging** – 1: have this belief about EVs; 0: do not have this belief
 
-Cost – 1: have this belief about EVs; 0: do not have this belief
+**Cost** – 1: have this belief about EVs; 0: do not have this belief
 
-Incentives – 1: have this belief about EVs; 0: do not have this belief
+**Incentives** – 1: have this belief about EVs; 0: do not have this belief
 
-Performance – 1: have this belief about EVs; 0: do not have this belief
+**Performance** – 1: have this belief about EVs; 0: do not have this belief
 
-Features – 1: have this belief about EVs; 0: do not have this belief
+**Features** – 1: have this belief about EVs; 0: do not have this belief
 
-Practicality – 1: have this belief about EVs; 0: do not have this belief
+**Practicality** – 1: have this belief about EVs; 0: do not have this belief
 
-Lifestyle – 1: have this belief about EVs; 0: do not have this belief
+**Lifestyle** – 1: have this belief about EVs; 0: do not have this belief
 
-Psychographics - A likert scale between 1: definitely disagree and 5: definitely agree.
+**Psychographics** - A likert scale between 1: definitely disagree and 5: definitely agree.
 
-Age – age as a number
+**Age** – age as a number
 
-Salary - salary as a number
+**Salary** - salary as a number
 
 ### Challenge:
 
@@ -72,16 +72,20 @@ pip install -r requirements.txt
 ipython kernel install --user --name=venv
 jupyter notebook
 ```
-✅ How to Use
+## ✅ How to Use
 
 Run the notebook cell by cell (from top to bottom) to ensure correct execution and proper variable state.
+
 Open the notebook in Jupyter.
+
 Start from the first cell.
+
 Run each cell in order using Shift + Enter.
+
 Check outputs as you go.
 
 If Jupyter shows the wrong kernel, go to Kernel > Change Kernel and select the environment with Python 3.10.
 
-📬 Contact
+## 📬 Contact
 
 For any questions, please open an issue or contact me via email martynakurbiel52@gmail.com
